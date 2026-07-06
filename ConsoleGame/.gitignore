@@ -1,0 +1,32 @@
+# Visual Studio / IDE
+.vs/
+.vscode/
+.idea/
+
+# User and workspace files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build outputs
+bin/
+obj/
+publish/
+TestResults/
+
+# NuGet and packages
+packages/
+*.nupkg
+
+# Rider / ReSharper
+*.DotSettings.user
+_ReSharper*/
+
+# Logs and temp
+*.log
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\roblo\\source\\repos_alt\\ConsoleGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{043EE8E6-B7EB-4224-BDE9-F224D3E11FA3}|ConsoleGame\\ConsoleGame.csproj|c:\\users\\roblo\\source\\repos_alt\\consolegame\\consolegame\\consolegame.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{043EE8E6-B7EB-4224-BDE9-F224D3E11FA3}|ConsoleGame\\ConsoleGame.csproj|solutionrelative:consolegame\\consolegame.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043EE8E6-B7EB-4224-BDE9-F224D3E11FA3}|ConsoleGame\\ConsoleGame.csproj|c:\\users\\roblo\\source\\repos_alt\\consolegame\\consolegame\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043EE8E6-B7EB-4224-BDE9-F224D3E11FA3}|ConsoleGame\\ConsoleGame.csproj|solutionrelative:consolegame\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043EE8E6-B7EB-4224-BDE9-F224D3E11FA3}|ConsoleGame\\ConsoleGame.csproj|c:\\users\\roblo\\source\\repos_alt\\consolegame\\consolegame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043EE8E6-B7EB-4224-BDE9-F224D3E11FA3}|ConsoleGame\\ConsoleGame.csproj|solutionrelative:consolegame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043EE8E6-B7EB-4224-BDE9-F224D3E11FA3}|ConsoleGame\\ConsoleGame.csproj|c:\\users\\roblo\\source\\repos_alt\\consolegame\\consolegame\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043EE8E6-B7EB-4224-BDE9-F224D3E11FA3}|ConsoleGame\\ConsoleGame.csproj|solutionrelative:consolegame\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043EE8E6-B7EB-4224-BDE9-F224D3E11FA3}|ConsoleGame\\ConsoleGame.csproj|c:\\users\\roblo\\source\\repos_alt\\consolegame\\consolegame\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043EE8E6-B7EB-4224-BDE9-F224D3E11FA3}|ConsoleGame\\ConsoleGame.csproj|solutionrelative:consolegame\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleGame",
+              "DocumentMoniker": "C:\\Users\\roblo\\source\\repos_alt\\ConsoleGame\\ConsoleGame\\ConsoleGame.csproj",
+              "RelativeDocumentMoniker": "ConsoleGame\\ConsoleGame.csproj",
+              "ToolTip": "C:\\Users\\roblo\\source\\repos_alt\\ConsoleGame\\ConsoleGame\\ConsoleGame.csproj",
+              "RelativeToolTip": "ConsoleGame\\ConsoleGame.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-05T23:46:33.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\roblo\\source\\repos_alt\\ConsoleGame\\ConsoleGame\\Game.cs",
+              "RelativeDocumentMoniker": "ConsoleGame\\Game.cs",
+              "ToolTip": "C:\\Users\\roblo\\source\\repos_alt\\ConsoleGame\\ConsoleGame\\Game.cs",
+              "RelativeToolTip": "ConsoleGame\\Game.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAKYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T23:46:10.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\roblo\\source\\repos_alt\\ConsoleGame\\ConsoleGame\\Enemy.cs",
+              "RelativeDocumentMoniker": "ConsoleGame\\Enemy.cs",
+              "ToolTip": "C:\\Users\\roblo\\source\\repos_alt\\ConsoleGame\\ConsoleGame\\Enemy.cs",
+              "RelativeToolTip": "ConsoleGame\\Enemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T23:44:31.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\roblo\\source\\repos_alt\\ConsoleGame\\ConsoleGame\\Player.cs",
+              "RelativeDocumentMoniker": "ConsoleGame\\Player.cs",
+              "ToolTip": "C:\\Users\\roblo\\source\\repos_alt\\ConsoleGame\\ConsoleGame\\Player.cs",
+              "RelativeToolTip": "ConsoleGame\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T23:47:43.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\roblo\\source\\repos_alt\\ConsoleGame\\ConsoleGame\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleGame\\Program.cs",
+              "ToolTip": "C:\\Users\\roblo\\source\\repos_alt\\ConsoleGame\\ConsoleGame\\Program.cs",
+              "RelativeToolTip": "ConsoleGame\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T23:18:40.235Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
