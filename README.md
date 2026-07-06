@@ -2,7 +2,7 @@ Chào mừng mọi người tới file `README.md` 🗣️🔥🔥
 
 # Game Console RPG
 
-Đây là một game RPG áp dụng OOP chạy trên console viết trong C# .NET 8.
+Đây là một game RPG cơ bản áp dụng OOP chạy trên console viết trong C# .NET 8.
 
 ## Cài đặt cần thiết
 
