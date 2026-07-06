@@ -1,25 +1,24 @@
-Here's the improved `README.md` file that incorporates the new content while maintaining the existing structure and information:
+Chào mừng mọi người tới file `README.md` 🗣️🔥🔥
 
-# ConsoleGame
+# Game Console RPG
 
-A simple console-based object-oriented RPG written in C# targeting .NET 8.
+Đây là một game RPG áp dụng OOP chạy trên console viết trong C# .NET 8.
 
-## Prerequisites
+## Cài đặt cần thiết
 
 - .NET 8 SDK (https://dotnet.microsoft.com/download)
 
-## Build and Run
+## Cách build
 
-To build and run the project, navigate to the repository root and execute the following commands:
+Để build và chạy project, di chuyển tới root repository và chạy lệnh:
 
-dotnet build
-dotnet run --project ConsoleGame
+`dotnet build`
+`dotnet run --project ConsoleGame`
 
 ## Gameplay
 
-In ConsoleGame, players can:
-
-- Explore the game world to encounter various enemies.
-- Rest to recover health points (HP).
-- Use potions and engage in battles to gain experience and level up.
+Trong ConsoleGame, người chơi có thể:
+- Khám phá thế giới (Explore).
+- Nghỉ để hồi phục máu (HP) (Rest).
+- Dùng các lọ thuốc và chiến đấu trong các trận chiến để nhận được kinh nghiệm và lên cấp.
 
