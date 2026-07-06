@@ -94,6 +94,15 @@ namespace ConsoleGame
         private Enemy CreateRandomEnemy()
         {
             // For simplicity, only one enemy type; could expand easily
+            int enemyType = _rng.Next(1, 10); // 1 or 2
+            if (enemyType <= 8)
+            {
+                return new Goblin();
+            }
+            else
+            {
+                return new GreatGoblin();
+            }
             return new Goblin();
         }
 
