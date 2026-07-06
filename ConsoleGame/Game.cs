@@ -95,13 +95,17 @@ namespace ConsoleGame
         {
             // For simplicity, only one enemy type; could expand easily
             int enemyType = _rng.Next(1, 10); // 1 or 2
-            if (enemyType <= 8)
+            if (enemyType <= 7)
             {
                 return new Goblin();
             }
-            else
+            else if (enemyType <= 9)
             {
                 return new GreatGoblin();
+            }
+            else
+            {
+                return new GoblinLord();
             }
             return new Goblin();
         }
